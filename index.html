@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>module2 Assignment</title>
+    <link rel="stylesheet" href="css/Style.css">
+  </head>
+  <body>
+    <h1>Our memu</h1>
+    <div class="row">
+      <div class="col-lg-4 col-md-6 col-xs-12" id="div1">
+        <h3 class="title">Chicken</h3>
+        <p>Dalia is a Syrian-German food author, presenter and entrepreneur. A culinary nomad born in London, raised in Paris and having lived many years in NYC, Dalia moved to Beirut when she founded Kitsch Bakery & Café. Dalia currently resides in Dubai and is a prominent culinary personality, contributing to leading food magazines, acting as Harper's Bazaar Arabia's food editor and appearing on major TV channels. Dalia's debut cookbook "Food, Love and Life from Dalia's Kitchen", topped charts at bookstores across the Middle East, such as Virgin Megastore and KinokuniyaBookworld.</p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-xs-12" id="div2">
+        <h3 class="title">Beef</h3>
+        <p>Dalia is a Syrian-German food author, presenter and entrepreneur. A culinary nomad born in London, raised in Paris and having lived many years in NYC, Dalia moved to Beirut when she founded Kitsch Bakery & Café. Dalia currently resides in Dubai and is a prominent culinary personality, contributing to leading food magazines, acting as Harper's Bazaar Arabia's food editor and appearing on major TV channels. Dalia's debut cookbook "Food, Love and Life from Dalia's Kitchen", topped charts at bookstores across the Middle East, such as Virgin Megastore and KinokuniyaBookworld.</p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-xs-12" id="div3">
+        <h3 class="title">Sushi</h3>
+        <p>Dalia is a Syrian-German food author, presenter and entrepreneur. A culinary nomad born in London, raised in Paris and having lived many years in NYC, Dalia moved to Beirut when she founded Kitsch Bakery & Café. Dalia currently resides in Dubai and is a prominent culinary personality, contributing to leading food magazines, acting as Harper's Bazaar Arabia's food editor and appearing on major TV channels. Dalia's debut cookbook "Food, Love and Life from Dalia's Kitchen", topped charts at bookstores across the Middle East, such as Virgin Megastore and KinokuniyaBookworld.</p>
+      </div>
+    </div>
+  </body>
+</html>
